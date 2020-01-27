@@ -30,6 +30,7 @@
     Lambda fuctions are triggered by events. These events may include:
     HTTP API request throuh API Gateway
     CloudWatch scheduled events
+    
     S3 file uploads
     DynamoDB Streams changes.
     Direct Invocations using the CLI or SDK
@@ -42,3 +43,4 @@
     about the invocation, function and execution environment.
     Logging
     Exceptions success or failure in comuunicate to AWS
+    
