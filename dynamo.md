@@ -20,4 +20,7 @@
 	These triggers execute automatically whenever an eventof interest appears in a stream.
 
 
+#### Example of using queries in dynamodb.
 
+
+	
